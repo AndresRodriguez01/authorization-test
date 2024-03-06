@@ -1,5 +1,5 @@
 {
-  "authorized_emails": [
-    "mauricio200231@gmail.com"
-  ]
+    "authorized_emails": [
+        {"email": "mauricio200231@gmail.com"}
+    ]
 }
